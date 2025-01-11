@@ -25,7 +25,7 @@ const Alumni = () => {
       quote: "Les valeurs d'excellence et de persévérance acquises ici m'accompagnent chaque jour."
     },
     {
-      name: "Sophie Sène",
+      name: "Beuytir Séne",
       promotion: "2018",
       image: "/alumni_photos/2018/sophie_sene.jpg",
       role: "Médecin",
